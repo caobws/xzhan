@@ -1,5 +1,5 @@
 *{padding:0;margin:0}
-body{background-color:#3e9456;color:#fff;font-family:-apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif}
+body{background-color:#ff5722;color:#fff;font-family:-apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif}
 #main{margin:10px auto;display:flex;justify-content:center;flex-direction:column;align-items:center}
 .field{max-width:500px;width:90%;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#fff;color:#6c757d;font-size:16px;padding:15px;margin:5px auto;border-radius:6px}
 .field.desc ul>li{text-align:left;font-size:14px}
@@ -14,9 +14,9 @@ ul>li.text{font-size:12px;clear:both;width:100%}
 a,a:active,a:focus,a:hover,a:visited{color:inherit;text-decoration:none}
 .brand{display:flex;align-items:center;justify-content:flex-start;text-align:center;color:#000;font-size:30px;font-weight:200;padding:20px;cursor:pointer}
 .brand span{color:#fff;font-weight:600}
-.brand span.flag{color:#3e9456;background:#fff;border-radius:5px;font-size:15px;font-weight:700;display:inline-block;padding:0 5px;margin-left:5px}
-.enter-maomi{width:75%;text-align:center;line-height:40px;border:2px solid #3e9456;border-radius:4px;margin-bottom:20px;margin-top:10px}
-.enter-icon{width:32px;height:41px;float:left;margin-right:5px;background-color:#3e9456}
+.brand span.flag{color:#ff5722;background:#fff;border-radius:5px;font-size:15px;font-weight:700;display:inline-block;padding:0 5px;margin-left:5px}
+.enter-maomi{width:75%;text-align:center;line-height:40px;border:2px solid #ff5722;border-radius:4px;margin-bottom:20px;margin-top:10px}
+.enter-icon{width:32px;height:41px;float:left;margin-right:5px;background-color:#ff5722}
 .enter-link a{display:block}
 .icon{width:20px;height:20px;background-position:center;background-size:contain;background-repeat:no-repeat;display:inline-block}
 .icon_hand{width:27px;height:27px;vertical-align:middle;background-image:url(https://cdn.jsdelivr.net/gh/caobws/xzhan/fabuye/hand.png);padding-top:12px}
