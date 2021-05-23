@@ -19,11 +19,11 @@ a,a:active,a:focus,a:hover,a:visited{color:inherit;text-decoration:none}
 .enter-icon{width:32px;height:41px;float:left;margin-right:5px;background-color:#3e9456}
 .enter-link a{display:block}
 .icon{width:20px;height:20px;background-position:center;background-size:contain;background-repeat:no-repeat;display:inline-block}
-.icon_hand{width:27px;height:27px;vertical-align:middle;background-image:url(./hand.png);padding-top:12px}
+.icon_hand{width:27px;height:27px;vertical-align:middle;background-image:url(https://cdn.jsdelivr.net/gh/caobws/xzhan/fabuye/hand.png);padding-top:12px}
 .c_black{color:#333;line-height:30px;font-size:12px}
 .c_blue{color:#da634b}
 .c_link{font-size:14px;line-height:30px}
 .fri_link{overflow:hidden;width:80%}
 .fri_link li{float:left;display:block;font-size:.875rem;width:33.33333333%}
-.icon_ios_shared{background-image:url(./ios_share.png)}
-.icon_android_share{background-image:url(./android_share.png)}
+.icon_ios_shared{background-image:url(https://cdn.jsdelivr.net/gh/caobws/xzhan/fabuye/ios_share.png)}
+.icon_android_share{background-image:url(https://cdn.jsdelivr.net/gh/caobws/xzhan/fabuye/android_share.png)}
